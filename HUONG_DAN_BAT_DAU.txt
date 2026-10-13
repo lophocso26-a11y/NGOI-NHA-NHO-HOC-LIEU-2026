@@ -1,0 +1,7 @@
+NGOI NHA NHO - GOI MA NGUON VERCEL
+1. Giai nen ZIP nay. Tai TOAN BO tep va thu muc ben trong len kho GitHub MOI (khong tai nguyen ZIP).
+2. Tren Vercel: New Project > Import kho GitHub moi > Vite > npm run build > dist.
+3. Environment Variables: GEMINI_API_KEY = khoa API cua anh (khong dua vao GitHub).
+4. Deploy va thu nghiem nut loa tieng Viet, cac tram, tinh diem.
+5. Neu TTS khong hoat dong: mo Vercel > Logs, kiem tra /api/tts va quyen truy cap model Gemini TTS. Chi phi API co the phat sinh.
+GHI CHU: Da sua endpoint TTS su dung model gemini-2.5-flash-preview-tts va dong goi PCM thanh WAV; chua kiem thu thuc te API/production. Khong chia se API key.

@@ -1,0 +1,6 @@
+{
+  "name": "Ngôi Nhà Nhỏ – Kho Báu Yêu Thương | Our Family Home",
+  "description": "Học liệu số tương tác môn Đạo đức Lớp 2 - Bài: Bảo quản đồ dùng gia đình. Bộ sách Kết nối tri thức với cuộc sống. GV: Nguyễn Thị Tuyết - Lớp 2A7 - Trường Tiểu học Đỗ Ngọc Du - Phân hiệu Ngô Thì Nhậm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
